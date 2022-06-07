@@ -1,4 +1,4 @@
-const Inventory = require('../ inventory.json').inventory
+const Inventory = require('../inventory.json').inventory
 
 class Stock {
     getPrice (sku) {
